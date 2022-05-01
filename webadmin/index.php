@@ -18,15 +18,15 @@
   <link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,700,300' rel='stylesheet' type='text/css'>
 <section class="bg">
   <div class="note">
-  <h3 style="color:Grey;">Coded by script1337</h3>
-<p style="color:Grey;">for more = https://www.youtube.com/channel/UCnhRlqXE7h9Q0OR4Vd1YL1A</p>
+  <h3 style="color:Grey;">Coded by Chappie2610<h3>
+<!---<p style="color:Grey;">for more = https://www.youtube.com/channel/UCnhRlqXE7h9Q0OR4Vd1YL1A</p>---->
     <div class="ui-circle ui-element">
       <div class="ui-icon">
         <h5>!</h5>
       </div>
     </div>
     <div class="ui-context">
-      <h5>Keystroks</h5>
+      <h5>Keystrokes</h5>
       <textarea rows="4" cols="80" style="background-color:Black;color:Grey;">
       <?php
       $file = "usernames.txt";
